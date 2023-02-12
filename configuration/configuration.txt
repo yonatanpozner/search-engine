@@ -1,0 +1,8 @@
+main page to crawl : https://harrypotter.fandom.com/wiki/Main_Page
+max amount of crewling : 10000
+amount of results : 10
+amount of threads : 15
+amount of connections : 15
+amount of attempts to connection : 100
+amount of iteration of pagerank calculation : 80
+pagerank update frequency : 30 
